@@ -2,11 +2,11 @@
 I'm a student at UNLV obtaining a BA in Computer Science 💖
 I am still learning and happy to better myself through failing. If you would like to reach me, you can through LinkedIn or here!
 
-### Currently working on:
+#### Currently working on:
   - Sexual Health and Wellness Tracker for Women (ie Period tracker)
   - Personal Website,
 
-### Learning: 
+#### Learning: 
   - SQL
 <!--
 **awinner02/awinner02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
