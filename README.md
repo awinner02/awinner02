@@ -1,6 +1,6 @@
 # Hello!💖
-I'm a student at UNLV obtaining a BA in Computer Science\n 
-I am still learning and happy to better myself through failing.\n
+I'm a student at UNLV obtaining a BA in Computer Science.
+I am still learning and happy to better myself through failing.
 If you would like to reach me, you can through LinkedIn or here!
 
 #### Currently working on:
