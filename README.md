@@ -1,6 +1,7 @@
-# Hello!
-I'm a student at UNLV obtaining a BA in Computer Science 💖
-I am still learning and happy to better myself through failing. If you would like to reach me, you can through LinkedIn or here!
+# Hello!💖
+I'm a student at UNLV obtaining a BA in Computer Science\n 
+I am still learning and happy to better myself through failing.\n
+If you would like to reach me, you can through LinkedIn or here!
 
 #### Currently working on:
   - Sexual Health and Wellness Tracker for Women (ie Period tracker)
